@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/asher/static/css/main.2414b0ad.css",
-    "main.js": "/asher/static/js/main.cf0fceef.js",
+    "main.css": "/asher/static/css/main.deedce8e.css",
+    "main.js": "/asher/static/js/main.9fd43214.js",
     "static/js/787.7a6893a4.chunk.js": "/asher/static/js/787.7a6893a4.chunk.js",
     "static/media/Orange.png": "/asher/static/media/Orange.dff8eff8cfd1371d108e.png",
     "static/media/PicAsh.JPG": "/asher/static/media/PicAsh.73533bade51ecc1b6742.JPG",
@@ -11,12 +11,12 @@
     "static/media/Pic2.jpg": "/asher/static/media/Pic2.67521954c7bd0f8a942c.jpg",
     "static/media/Pic5.jpg": "/asher/static/media/Pic5.f844e7868feb172eadb9.jpg",
     "index.html": "/asher/index.html",
-    "main.2414b0ad.css.map": "/asher/static/css/main.2414b0ad.css.map",
-    "main.cf0fceef.js.map": "/asher/static/js/main.cf0fceef.js.map",
+    "main.deedce8e.css.map": "/asher/static/css/main.deedce8e.css.map",
+    "main.9fd43214.js.map": "/asher/static/js/main.9fd43214.js.map",
     "787.7a6893a4.chunk.js.map": "/asher/static/js/787.7a6893a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2414b0ad.css",
-    "static/js/main.cf0fceef.js"
+    "static/css/main.deedce8e.css",
+    "static/js/main.9fd43214.js"
   ]
 }
